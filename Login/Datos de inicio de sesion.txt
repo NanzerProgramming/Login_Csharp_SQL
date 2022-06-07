@@ -1,0 +1,9 @@
+Profe le dejo el usuario y la contraseña con la que puede acceder al LOGIN, 
+ya que use la misma db que tenemos en somee para el proyecto!
+
+Los datos son:
+
+Usuario: Manuel
+Contraseña: manu97
+
+Si quiere ver la tabla, en la cadena de coneccion a la db estan los datos de ingreso! y la tabla es Login.
